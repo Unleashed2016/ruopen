@@ -1,20 +1,23 @@
 ## R U Open
 
-An augmented reality app to locate services around you that are open. 
+An augmented reality app to locate services around you that are open.
 
 Team name: Bob's gang
 
-Team memebers: 
+Team members: Matt Cejko, Martin Nobis, Muhammad Pavel, Mizanur Rahman, Asheshwor Shrestha, Oshim Somers
 
-Demo url: 
+Source repository url: https://github.com/Unleashed2016/ruopen
 
-Video url: 
+Video url:
 
-Hackerspace url: 
+Hackerspace url:
 
-### Datasets Used: 
+### Datasets Used:
 
 * Outdoor dining permits - Adelaide City Council data provided via data.sa https://data.sa.gov.au/data/dataset/outdoor-dining-permits
+
+* 3D Model of the City of Adelaide data provided by data.sa
+https://data.sa.gov.au/data/dataset/3d-model
 
 ### Local Event Location:
 Adelaide
