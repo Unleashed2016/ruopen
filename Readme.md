@@ -10,7 +10,7 @@ Source repository url: https://github.com/Unleashed2016/ruopen
 
 Video url:
 
-Hackerspace url:
+Hackerspace url: https://2016.hackerspace.govhack.org/node/1751/edit
 
 ### Datasets Used:
 
