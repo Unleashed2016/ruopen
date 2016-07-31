@@ -26,7 +26,7 @@ Team members: Matt Cejko, Martin Nobis, Muhammad Pavel, Mizanur Rahman, Asheshwo
 
 Source repository url: https://github.com/Unleashed2016/ruopen
 
-Video url: https://youtu.be/jFnAx99LmtI
+Video url: https://youtu.be/al08lttiCS0
 
 Hackerspace url: https://2016.hackerspace.govhack.org/content/r-u-open
 
