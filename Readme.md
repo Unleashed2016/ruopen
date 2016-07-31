@@ -21,5 +21,7 @@ Hackerspace url: https://2016.hackerspace.govhack.org/node/1751/edit
 * 3D Model of the City of Adelaide data provided by data.sa
 https://data.sa.gov.au/data/dataset/3d-model This dataset provides the visualization of building heights in augmented reality view on our app.
 
+* Hospital locations in SA: https://data.sa.gov.au/data/dataset/sa-health-hospitals-locations This dataset provides location of hospital facilities visible to the users via the app interface. Opening times will be added to the database.
+
 ### Local Event Location:
 Adelaide
