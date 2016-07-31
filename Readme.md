@@ -12,7 +12,10 @@ Source repository url: https://github.com/Unleashed2016/ruopen
 
 Video url:
 
-Hackerspace url: https://2016.hackerspace.govhack.org/node/1751/edit
+Hackerspace url: https://2016.hackerspace.govhack.org/content/r-u-open
+
+### Local Event Location:
+Adelaide
 
 ### Datasets Used:
 
@@ -21,9 +24,8 @@ Hackerspace url: https://2016.hackerspace.govhack.org/node/1751/edit
 * 3D Model of the City of Adelaide data provided by data.sa
 https://data.sa.gov.au/data/dataset/3d-model This dataset provides the visualization of building heights in augmented reality view on our app.
 
-* Hospital locations in SA: https://data.sa.gov.au/data/dataset/sa-health-hospitals-locations This dataset provides location of hospital facilities visible to the users via the app interface. Opening times will be added to the database.
+* Hospital locations in SA (SA Public and Private Hospitals Locations): https://data.sa.gov.au/data/dataset/sa-health-hospitals-locations Location of hospitals will be used to get directions to app users using maps and augmented reality. Opening times will be added to enhance the data-set.
 
-* RSS feed of events that are planned in the Adelaide City Council area.https://data.sa.gov.au/data/dataset/events The events RSS feed will provide event locaiton and timings to app users.
+* RSS feed of events that are planned in the Adelaide City Council area provided by ACC https://data.sa.gov.au/data/dataset/events The events RSS feed will provide event locaiton and timings to app users.
 
-### Local Event Location:
-Adelaide
+
