@@ -4,6 +4,14 @@
 
 **An augmented reality app to locate services around you that are open.**
 
+description
+
+### Augmented reality based geolocation, routing and navigation:
+
+We have developed the proof-of-concept of a browser-based Augmented Reality app to locate services which are open at the time of use (of the app) around the user. This kind of app would be normally developed using native APIs of the mobile phone OS (Android/iOS/Windows Mobile) and is extremely complex. The key concept is to use the mobile device sensors, mainly accelerometer, magnetometer, GPS, camera to establish the current location, orientation and point-of-view (in terms of camera viewport) of the device. On top, of the camera feed on the phone screen, data is superimposed in transparent/semi-transparent layers. This is done by creating virtual markers based on geolocated dataset(s) and using algorithms to determine the approximate distance and direction of heading for the marker in relation to the user's (and phone camera's) point-of-view. Navigation features can be added by using the phone's motion sensors to determine direction of movement as well.
+
+Since our proof-of-concept has been developed within the time constraints of Unleashed 2016, Adelaide and Govhack, it has been developed using HTML5 geolocation (GPS), the orientation API (accelerometer) and WebGL (GPU). This PoC currently requires a standards compliant mobile browser (e.g. Firefox on Android). iOS does not currently support WebGL or WebRTC and has not implemented the DeviceOrientation API correctly. Please see [this post to the W3C GeoLocation Working Group link](http://http://lists.w3.org/Archives/Public/public-geolocation/2014Jan/0000.html) for more detailed information. [Awe.js link] (https://github.com/buildar/awe.js/) has been used for building the app. A transparent overlay of Google Maps has been used to display roads and locate markers on top of the camera feed for simplicity.
+
 Team name: Bob's gang
 
 Team members: Matt Cejko, Martin Nobis, Muhammad Pavel, Mizanur Rahman, Asheshwor Shrestha, Oshim Somers
@@ -16,13 +24,6 @@ Hackerspace url: https://2016.hackerspace.govhack.org/content/r-u-open
 
 ### Local Event Location:
 Adelaide
-
-### Augmented reality based geolocation, routing and navigation:
-
-We have developed the proof-of-concept of a browser-based Augmented Reality app to locate services which are open at the time of use (of the app) around the user. This kind of app would be normally developed using native APIs of the mobile phone OS (Android/iOS/Windows Mobile) and is extremely complex. The key concept is to use the mobile device sensors, mainly accelerometer, magnetometer, GPS, camera to establish the current location, orientation and point-of-view (in terms of camera viewport) of the device. On top, of the camera feed on the phone screen, data is superimposed in transparent/semi-transparent layers. This is done by creating virtual markers based on geolocated dataset(s) and using algorithms to determine the approximate distance and direction of heading for the marker in relation to the user's (and phone camera's) point-of-view. Navigation features can be added by using the phone's motion sensors to determine direction of movement as well.
-
-Since our proof-of-concept has been developed within the time constraints of Unleashed 2016, Adelaide and Govhack, it has been developed using HTML5 geolocation (GPS), the orientation API (accelerometer) and WebGL (GPU). This PoC currently requires a standards compliant mobile browser (e.g. Firefox on Android). iOS does not currently support WebGL or WebRTC and has not implemented the DeviceOrientation API correctly. Please see [this post to the W3C GeoLocation Working Group link](http://http://lists.w3.org/Archives/Public/public-geolocation/2014Jan/0000.html) for more detailed information. [Awe.js link] (https://github.com/buildar/awe.js/) has been used for building the app. A transparent overlay of Google Maps has been used to display roads and locate markers on top of the camera feed for simplicity.
-
 
 ### Datasets Used:
 
