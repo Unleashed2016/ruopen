@@ -26,7 +26,7 @@ Since our proof-of-concept has been developed within the time constraints of Unl
 
 ### Datasets Used:
 
-* Outdoor dining permits - Adelaide City Council data provided via data.sa https://data.sa.gov.au/data/dataset/outdoor-dining-permits This dataset provides the opening hours of dining facilities in Adelaide City. With a bit of cleaning, the location of the services and opening hours were extracted.
+* Outdoor dining permits - Adelaide City Council data provided via data.sa https://data.sa.gov.au/data/dataset/outdoor-dining-permits This data-set provides the opening hours of dining facilities in Adelaide City. Location extracted from address and opening times extracted from 'opening times' text description.
 
 * 3D Model of the City of Adelaide data provided by data.sa
 https://data.sa.gov.au/data/dataset/3d-model This dataset provides the visualization of building heights in augmented reality view on our app.
