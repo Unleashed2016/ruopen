@@ -26,7 +26,7 @@ Team members: Matt Cejko, Martin Nobis, Muhammad Pavel, Mizanur Rahman, Asheshwo
 
 Source repository url: https://github.com/Unleashed2016/ruopen
 
-Video url:
+Video url: https://youtu.be/jFnAx99LmtI
 
 Hackerspace url: https://2016.hackerspace.govhack.org/content/r-u-open
 
@@ -43,6 +43,7 @@ https://data.sa.gov.au/data/dataset/3d-model This dataset provides the visualiza
 * RSS feed of events that are planned in the Adelaide City Council area provided by ACC https://data.sa.gov.au/data/dataset/events The events RSS feed will provide event locaiton and timings to app users.
 
 ### APIs Used
+
 * Awe.js: Used to simplify using HTML5 geolocation, orientation and WebGL
 
 * Three.js: Used as a cool WebGL library
