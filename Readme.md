@@ -1,6 +1,8 @@
 ## R U Open
 
-An augmented reality app to locate services around you that are open.
+![ru open logo](img/RU Open.png)
+
+**An augmented reality app to locate services around you that are open.**
 
 Team name: Bob's gang
 
