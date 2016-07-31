@@ -51,4 +51,4 @@ https://data.sa.gov.au/data/dataset/3d-model This dataset provides the visualiza
 
 * Google Maps Directions API: Used for routing and navigation from user's current location to destination (location of restaurant, club, etc.)
 
-* Backendless: mBaaS service for storing business related data (e.g. for subscribing businesses to provide details of the business, special offers, campaigns, etc)
+* Backendless: mBaaS service for storing business related data (e.g. for subscribing businesses to provide details of the business, special offers, campaigns, etc). Ideally a custom developed backend service would be used.
