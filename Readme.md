@@ -23,5 +23,7 @@ https://data.sa.gov.au/data/dataset/3d-model This dataset provides the visualiza
 
 * Hospital locations in SA: https://data.sa.gov.au/data/dataset/sa-health-hospitals-locations This dataset provides location of hospital facilities visible to the users via the app interface. Opening times will be added to the database.
 
+* RSS feed of events that are planned in the Adelaide City Council area.https://data.sa.gov.au/data/dataset/events The events RSS feed will provide event locaiton and timings to app users.
+
 ### Local Event Location:
 Adelaide
